@@ -3,14 +3,14 @@
 
 --- Tools/Framework ---
 
--> Mocha test framework
--> Chai assertion library
--> Javascript as PL
--> Mochawesome reporting lib
+1. Mocha test framework
+2. Chai assertion library
+3. Javascript as PL
+4. Mochawesome reporting lib
 
 
 --- Setup/Install ---
-Install dependancies by using "npm install"
+-> Install dependancies by using "npm install"
 
 --- Run Test ---
-run comman "npm test"
+-> run comman "npm test"
