@@ -8,6 +8,10 @@
 3. Javascript as PL
 4. Mochawesome reporting lib
 
+--- Repository---
+
+$ git clone https://github.com/mayureshkelhar/order-api.git
+
 
 --- Setup/Install ---
  $ npm install
