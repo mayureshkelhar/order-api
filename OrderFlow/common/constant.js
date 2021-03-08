@@ -16,3 +16,5 @@ targetDate.setDate(targetDate.getDate() + 10);
 return targetDate.toISOString();
 }
 
+export let endPointURI = "http://localhost:51544/v1/";
+

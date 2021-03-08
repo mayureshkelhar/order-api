@@ -2,9 +2,9 @@ import { expect } from 'chai';
 import { timeStamp } from 'console';
 import supertest from 'supertest';
 import {faresIsEqual} from '../common/calculateFare'
-import {orderData,advanceDate} from '../common/constant';
+import {orderData,advanceDate,endPointURI} from '../common/constant';
 
-const request = supertest ('http://localhost:51544/v1/');
+const request = supertest (endPointURI);
 
 
 /** Covered E-E test scenarios */
