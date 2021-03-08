@@ -13,4 +13,5 @@
 -> Install dependancies by using "npm install"
 
 --- Run Test ---
+-> navigate to path $cd orderflow
 -> run comman "npm test"
