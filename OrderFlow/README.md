@@ -10,10 +10,12 @@
 
 
 --- Setup/Install ---
--> Install dependancies by using "npm install"
+ $ npm install
 
 --- Run Test ---
--> update variable "endPointURI" in Orderflow/common/constants.js and add your URI to local API run
-e.g `export let endPointURI = "http://localhost:51544/v1/";`
--> navigate to path $cd orderflow
--> run comman "npm test"
+
+ $ npm test
+ 
+ ---Parameteres---
+
+Endpoint URI default = "http://localhost:51544/v1/"
